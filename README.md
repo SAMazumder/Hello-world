@@ -1,2 +1,2 @@
 # Hello-world
-Git cotaining some thing I've done.
+Git containing some thing I've done.
